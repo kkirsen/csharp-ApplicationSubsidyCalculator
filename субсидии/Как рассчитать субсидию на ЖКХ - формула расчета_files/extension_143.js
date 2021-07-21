@@ -1,1 +1,0 @@
-try{window&&"object"==typeof window.adcm&&(adcm.callextpixel("//data.artlebedev.ru/1/4010/i/i"),function(){try{var a=[6499,6437,6586,6534,6672,6671,6670,6669,6668,6658],b=Math.floor(Math.random()*a.length);"undefined"!=typeof a[b]&&window.adcm.callpixel(a[b])}catch(c){}}())}catch(e){}
