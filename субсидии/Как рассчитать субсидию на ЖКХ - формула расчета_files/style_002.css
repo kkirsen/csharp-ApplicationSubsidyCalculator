@@ -1,0 +1,308 @@
+.admin_paiddownloads_wrap table.paiddownloads_files {
+	width: 100%;
+	border-collapse: collapse;
+}
+.admin_paiddownloads_wrap table.paiddownloads_files tr {
+
+}
+.admin_paiddownloads_wrap table.paiddownloads_files td,
+.admin_paiddownloads_wrap table.paiddownloads_files th {
+	padding: 5px 5px 5px 5px;
+	vertical-align: top;
+	border: 1px solid #C0C0C0;
+}
+
+.admin_paiddownloads_wrap table.paiddownloads_files th {
+	background-color: #E0DBD0;
+	vertical-align: middle;
+}
+
+.admin_paiddownloads_wrap table.paiddownloads_files a{
+	color: #0080FF;
+	text-decoration: none;
+}
+.admin_paiddownloads_wrap table.paiddownloads_files a:hover{
+	text-decoration: underline;
+}
+.paiddownloads_buttons {text-align: right; margin-bottom: 10px; margin-top: 10px; float: right;}
+.paiddownloads_pageswitcher {
+	margin-right: 200px;
+	float: left;
+}
+.paiddownloads_pageswitcher div {float: none !important;}
+
+.paiddownloads_legend  {margin-top: 50px;}
+.paiddownloads_legend  p {margin-top: 2px; margin-bottom: 2px; height: 100%; overflow: hidden;}
+.paiddownloads_legend  img {float: left; margin-right: 10px;}
+
+.admin_paiddownloads_wrap table.paiddownloads_useroptions {
+	width: 100%;
+	border-collapse: collapse;
+}
+.admin_paiddownloads_wrap table.paiddownloads_useroptions  em{
+	font-size: 11px;
+	color: #A0A0A0;
+}
+
+.admin_paiddownloads_wrap table.paiddownloads_useroptions tr {
+
+}
+.admin_paiddownloads_wrap table.paiddownloads_useroptions td,
+.admin_paiddownloads_wrap table.paiddownloads_useroptions th {
+	padding: 5px 5px 5px 5px;
+	vertical-align: top;
+	border: 0px solid #C0C0C0;
+	text-align: left;
+}
+.admin_paiddownloads_wrap table.paiddownloads_useroptions th {
+	width: 180px;
+}
+.admin_paiddownloads_wrap table.paiddownloads_useroptions a{
+	color: #0080FF;
+	text-decoration: none;
+}
+.admin_paiddownloads_wrap table.paiddownloads_useroptions a:hover{
+	text-decoration: underline;
+}
+
+.paiddownloads_historytable {
+	border-collapse: collapse;
+	width: 100%;
+}
+.paiddownloads_historytable td,
+.paiddownloads_historytable th {
+	padding: 5px 5px 5px 5px;
+	vertical-align: top;
+	border: 1px solid #C0C0C0;
+}
+.paiddownloads_historytable th {
+	background-color: #E0DBD0;
+	vertical-align: middle;
+}
+.paiddownloads_historytable td input {
+	margin: 0px; 
+	padding: 2px 0px; 
+	border: 1px solid #C0C0C0; 
+	background-color: #FFFFFF; 
+	font-family: arial; 
+	font-size: 13px;
+}
+div.postbox div.inside {
+margin: 10px;
+position: relative;
+height: 100%;
+overflow: hidden;
+}
+
+div.paiddownloads_payment_selector {
+height: 100%;
+overflow: hidden;
+color: #808080;
+font-family: arial, verdana;
+font-size: 13px;
+text-align: center;
+line-height: 18px;
+}
+
+div.paiddownloads_payment_selector  div.payment_selector_button {
+width: 240px;
+min-height: 60px;
+border: 2px solid #F4F4F4;
+background-color: #FCFCFC;
+text-align: center;
+cursor: pointer;
+margin: 5px;
+}
+
+div.paiddownloads_payment_selector  div.payment_selector_button:hover {
+border: 2px solid #E4E4E4;
+}
+
+div.paiddownloads_payment_selector  div.payment_selector_button  input.paiddownloads_delivery_email {
+border: 1px solid #C0C0C0;
+background: #FFFFFF;
+color: #A0A0A0;
+font-family: arial;
+font-size: 12px;
+padding: 0px;
+margin-bottom: 5px;
+margin-top: 5px;
+width: 90%;
+line-height: 14px;
+}
+
+div.paiddownloads_payment_selector table.payment_selector_summary {
+border: 0px;
+text-align: left;
+margin: 8px 0px;
+}
+
+div.paiddownloads_payment_selector table.payment_selector_summary  td {
+vertical-align: middle;
+padding: 2px;
+}
+
+a.paiddownloads_button_link {
+text-decoration: none !important;
+}
+
+a.paiddownloads_button_link  img{
+background: transparent !important;
+border: 0px solid transparent !important;
+padding: 0px !important;
+}
+
+#paiddownloads_currency_notes {
+color: #A0A0A0;
+font-size: 11px;
+}
+
+.paiddownloads_errorbox {
+	background: #FFE8E0 url(../images/failed01.png) 10px 5px no-repeat !important; 
+	margin: 5px 0px !important; 
+	padding: 5px 10px 5px 30px !important; 
+	color: red !important; 
+	font-size: 12px !important; 
+	font-weight: bold !important; 
+	text-align:left !important; 
+	border: 1px dotted red !important;
+	font-family: arial, verdana  !important;
+	line-height: 16px !important;
+}
+
+.paiddownoads_button {margin-top: 10px; margin-bottom: 10px;}
+
+div.paiddownloads_terms {
+	height: 120px;
+	overflow: scroll;
+	border: 2px solid #888;
+	line-height: 18px;
+	font-size: 13px;
+	font-family: arial;
+	padding: 3px;
+}
+
+
+.paiddownloads-btn{
+	font-family: Oswald, Arial, sans-serif;
+	text-decoration: none !important;
+    background:#80a9da;
+    background:-webkit-gradient(linear,left top,left bottom,color-stop(#80a9da,0),color-stop(#6f97c5,1));
+    background:-webkit-linear-gradient(top, #80a9da 0%, #6f97c5 100%);
+    background:-moz-linear-gradient(top, #80a9da 0%, #6f97c5 100%);
+    background:-o-linear-gradient(top, #80a9da 0%, #6f97c5 100%);
+    background:linear-gradient(top, #80a9da 0%, #6f97c5 100%);
+    filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#80a9da', endColorstr='#6f97c5',GradientType=0 );
+    padding-left:20px;
+    padding-right:80px;
+    height:38px;
+    line-height:38px !important;
+    display:inline-block;
+    position:relative;
+    border:1px solid #5d81ab;
+    -webkit-box-shadow:0px 1px 1px rgba(255,255,255,0.8) inset, 1px 1px 3px rgba(0,0,0,0.2), 0px 0px 0px 0px rgba(188,188,188,0.5);
+    -moz-box-shadow:0px 1px 1px rgba(255,255,255,0.8) inset, 1px 1px 3px rgba(0,0,0,0.2), 0px 0px 0px 0px rgba(188,188,188,0.5);
+    box-shadow:0px 1px 1px rgba(255,255,255,0.8) inset, 1px 1px 3px rgba(0,0,0,0.2), 0px 0px 0px 0px rgba(188,188,188,0.5);
+    -webkit-border-radius:20px;
+    -moz-border-radius:20px;
+    border-radius:20px;
+    float:left;
+    clear:both;
+    margin:10px 0px;
+    overflow:hidden;
+    -webkit-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+    -o-transition:all 0.3s linear;
+    transition:all 0.3s linear;
+}
+.paiddownloads-btn-text{
+	font-family: Oswald, Arial, sans-serif;
+    line-height:38px !important;
+    display:block;
+	text-decoration: none;
+    font-size:18px;
+    white-space:nowrap;
+    text-shadow:0px 1px 1px rgba(255,255,255,0.3);
+    color:#446388;
+    -webkit-transition:all 0.2s linear;
+    -moz-transition:all 0.2s linear;
+    -o-transition:all 0.2s linear;
+    transition:all 0.2s linear;
+}
+.paiddownloads-btn-slide-text{
+	font-family: Oswald, Arial, sans-serif;
+    line-height:38px !important;
+    position:absolute;
+    height:100%;
+    top:0px;
+    right:52px;
+    width:0px;
+    background:#63707e;
+    text-shadow:0px -1px 1px #363f49;
+    color:#fff;
+    font-size:18px;
+    white-space:nowrap;
+    text-transform:uppercase;
+	text-decoration: none;
+    text-align:left;
+    text-indent:10px;
+    overflow:hidden;
+    line-height:38px;
+    -webkit-box-shadow:-1px 0px 1px rgba(255,255,255,0.4), 1px 1px 2px rgba(0,0,0,0.2) inset;
+    -moz-box-shadow:-1px 0px 1px rgba(255,255,255,0.4), 1px 1px 2px rgba(0,0,0,0.2) inset;
+    box-shadow:-1px 0px 1px rgba(255,255,255,0.4), 1px 1px 2px rgba(0,0,0,0.2) inset;
+    -webkit-transition:width 0.3s linear;
+    -moz-transition:width 0.3s linear;
+    -o-transition:width 0.3s linear;
+    transition:width 0.3s linear;
+}
+.paiddownloads-btn-icon-right{
+    position:absolute;
+    right:0px;
+    top:0px;
+    height:100%;
+    width:52px;
+    border-left:1px solid #5d81ab;
+    -webkit-box-shadow:1px 0px 1px rgba(255,255,255,0.4) inset;
+    -moz-box-shadow:1px 0px 1px rgba(255,255,255,0.4) inset;
+    box-shadow:1px 0px 1px rgba(255,255,255,0.4) inset;
+}
+.paiddownloads-btn-icon-right span{
+    width:38px;
+    height:38px;
+    opacity:0.7;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin:-20px 0px 0px -20px;
+    background:transparent url(../images/arrow_right.png) no-repeat 50% 55%;
+    -webkit-transition:all 0.3s linear;
+    -moz-transition:all 0.3s linear;
+    -o-transition:all 0.3s linear;
+    transition:all 0.3s linear;
+}
+.paiddownloads-btn:hover{
+    padding-right:180px;
+    -webkit-box-shadow:0px 1px 1px rgba(255,255,255,0.8) inset, 1px 1px 3px rgba(0,0,0,0.2);
+    -moz-box-shadow:0px 1px 1px rgba(255,255,255,0.8) inset, 1px 1px 3px rgba(0,0,0,0.2);
+    box-shadow:0px 1px 1px rgba(255,255,255,0.8) inset, 1px 1px 3px rgba(0,0,0,0.2);
+}
+.paiddownloads-btn:hover .paiddownloads-btn-text{
+    text-shadow:0px 1px 1px #5d81ab;
+    color:#fff;
+}
+.paiddownloads-btn:hover .paiddownloads-btn-slide-text{
+    width:100px;
+}
+.paiddownloads-btn:hover .paiddownloads-btn-icon-right span{
+    opacity:1;
+}
+.paiddownloads-btn:active{
+    position:relative;
+    top:1px;
+    background:#5d81ab;
+    -webkit-box-shadow:1px 1px 2px rgba(0,0,0,0.4) inset;
+    -moz-box-shadow:1px 1px 2px rgba(0,0,0,0.4) inset;
+    box-shadow:1px 1px 2px rgba(0,0,0,0.4) inset;
+    border-color:#80a9da;
+}
